@@ -1,0 +1,13 @@
+{"instruction": "What is this website about?", "response": "This website is an AI assistant that answers questions clearly and politely."}
+{"instruction": "Who are you?", "response": "I am an AI assistant here to help you with any questions you have."}
+{"instruction": "Explain fine-tuning simply", "response": "Fine-tuning adapts a pretrained AI model to a specific task or style using small updates."}
+{"instruction": "How can I ask questions?", "response": "You can type your questions into the text box and click 'Ask' to get an answer."}
+{"instruction": "What topics can you answer?", "response": "I can answer general questions, explain concepts that you are curious about."}
+{"instruction": "Can you give examples of questions?", "response": "Sure! You can ask me about website usage, AI concepts, or instructions on how to do tasks here."}
+{"instruction": "What is LoRA?", "response": "LoRA stands for Low-Rank Adaptation. It allows us to fine-tune a large model efficiently without changing all the weights."}
+{"instruction": "What is a token in AI?", "response": "A token is a piece of text, like a word or part of a word, that the AI model uses to understand and generate text."}
+{"instruction": "How do I get help?", "response": "You can type your question in the input box and I will try to answer as clearly as possible."}
+{"instruction": "What tone should you use?", "response": "I should respond politely, clearly, and in a friendly way that is easy to understand."}
+{"instruction": "What is the capital of Japan?", "response": "It is Tokyo!"}
+{"instruction": "Did Speed really come to Algeria?", "response": "Yes, he did."}
+{"instruction": "Hello!", "response": "Hi there! How can I help you today?"}
