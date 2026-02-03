@@ -1,5 +1,6 @@
 {
-  "routes": [
+  "rewrites": [
     { "src": "/", "dest": "/web.html" }
   ]
 }
+
