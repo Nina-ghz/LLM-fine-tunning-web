@@ -1,6 +1,8 @@
 {
   "rewrites": [
-    { "src": "/", "dest": "/web.html" }
+    { "source": "/", "destination": "/web.html" }
   ]
 }
+
+
 
